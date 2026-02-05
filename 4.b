@@ -6,6 +6,5 @@ for i in range(len(numbers)):
         print("Element found at index", i)
         flag = 0
         break
-
 if flag==0:
     print("Element not found in the list")
